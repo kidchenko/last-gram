@@ -1,0 +1,26 @@
+{
+    "name": "last-gram",
+    "version": "0.0.0",
+    "description": "A web component to show the last picture of a user of Instagram",
+    "authors": [
+        "kiide <kide.lemark@gmail.com>"
+    ],
+    "license": "MIT",
+    "keywords": [
+        "polymer",
+        "web-components",
+        "webcomponents",
+        "instagram",
+        "last picture",
+        "picture",
+        "image"
+    ],
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components"
+    ],
+    "dependencies": {
+        "polymer": "Polymer/polymer#~0.3.3"
+    }
+}
